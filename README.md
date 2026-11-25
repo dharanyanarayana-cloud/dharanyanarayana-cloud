@@ -1,4 +1,3 @@
-![GitHub Banner](wide_clean_modern_tech_themed_banner_hero_image.png)
 # Hi, I'm Dharanya! 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel | Machine Learning
