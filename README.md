@@ -39,7 +39,7 @@ To build a career in Data Analytics and continuously improve my technical, analy
 ## 📫 Connect With Me
 
 - GitHub: [My GitHub Profile](https://github.com/dharanyanarayana-cloud)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/dharanya-narayanan-5660b43a5/
 
 ---
 
